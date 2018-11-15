@@ -1,0 +1,14 @@
+/home/icelark/Documents/C#/Door/Door/bin/Debug/netcoreapp2.1/Door.deps.json
+/home/icelark/Documents/C#/Door/Door/bin/Debug/netcoreapp2.1/Door.runtimeconfig.json
+/home/icelark/Documents/C#/Door/Door/bin/Debug/netcoreapp2.1/Door.runtimeconfig.dev.json
+/home/icelark/Documents/C#/Door/Door/bin/Debug/netcoreapp2.1/Door.dll
+/home/icelark/Documents/C#/Door/Door/bin/Debug/netcoreapp2.1/Door.pdb
+/home/icelark/Documents/C#/Door/Door/obj/Debug/netcoreapp2.1/Door.csproj.CoreCompileInputs.cache
+/home/icelark/Documents/C#/Door/Door/obj/Debug/netcoreapp2.1/Door.RazorAssemblyInfo.cache
+/home/icelark/Documents/C#/Door/Door/obj/Debug/netcoreapp2.1/Door.RazorAssemblyInfo.cs
+/home/icelark/Documents/C#/Door/Door/obj/Debug/netcoreapp2.1/Door.AssemblyInfoInputs.cache
+/home/icelark/Documents/C#/Door/Door/obj/Debug/netcoreapp2.1/Door.AssemblyInfo.cs
+/home/icelark/Documents/C#/Door/Door/obj/Debug/netcoreapp2.1/Door.RazorTargetAssemblyInfo.cache
+/home/icelark/Documents/C#/Door/Door/obj/Debug/netcoreapp2.1/Door.dll
+/home/icelark/Documents/C#/Door/Door/obj/Debug/netcoreapp2.1/Door.pdb
+/home/icelark/Documents/C#/Door/Door/obj/Debug/netcoreapp2.1/Door.csprojAssemblyReference.cache
